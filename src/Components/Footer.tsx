@@ -11,7 +11,7 @@ function Footer() {
               <span className="me-2">
                 <img src="https://static.vecteezy.com/system/resources/previews/023/618/290/non_2x/email-icon-clipart-free-free-png.png" alt="Email icon" style={{ width: '24px', height: '24px' }} />
               </span>
-              Email: <a href="mailto:juanramirezrueda11@gmail.com" className="text-light">juanramirezrueda11@gmail.com</a>
+              Email: <a href="mailto:avrueda26@hotmail.com" className="text-light">avrueda26@hotmail.com</a>
             </p>
 
             <p>
